@@ -1,5 +1,0 @@
-{
-    "watch": ["src", ".env"],
-    "ext":"ts",
-    "exec":"tsc --noEmit && tsx src/server.ts"
-}
